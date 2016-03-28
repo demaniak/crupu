@@ -1,0 +1,23 @@
+{
+  "name": "ag-crupu",
+  "homepage": "https://github.com/demaniak/crupu",
+  "authors": [
+    "HS Coetzee <hendrik@pepperbytes.net>"
+  ],
+  "description": "A simple, zero dependency component that will keep a simple copyright notice up to date (current year)",
+  "main": "src/crupu.js",
+  "moduleType": [],
+  "keywords": [
+    "copyright",
+    "current"
+  ],
+  "license": "Apache License Version 2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
