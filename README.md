@@ -9,7 +9,7 @@ will always be the current year.
 
 # How
 ## Install
-TODO
+Install the component with [Bower](https://bower.io): - `bower install crupu --save`
 
 ## Include
 TODO
