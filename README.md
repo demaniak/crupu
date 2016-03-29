@@ -9,7 +9,14 @@ will always be the current year.
 
 # How
 ## Install
+### Bower
 Install the component with [Bower](https://bower.io): - `bower install crupu --save`
+
+### Webjar
+TODO
+
+### Nuget
+TODO
 
 ## Include
 ```html
