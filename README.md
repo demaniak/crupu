@@ -12,7 +12,9 @@ will always be the current year.
 Install the component with [Bower](https://bower.io): - `bower install crupu --save`
 
 ## Include
-TODO
+```html
+<script src="bower_components/crupu/src/crupu.js"></script>
+```
 
 ## Use crupu-* classes
 Mark the elements you want to keep up to date with the right css classes:
@@ -22,5 +24,10 @@ Mark the elements you want to keep up to date with the right css classes:
 
 Please take a look at `sample.html` for examples.
 
-# Everything else
-Hold on to your pants, the rest is comming, I'm still starting up here.
+But, in short:
+```html
+Copyright &amp; Awesome Factory x100 <span class="crupu-year">this will be replaced</span>
+```
+
+# License
+[Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
