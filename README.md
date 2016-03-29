@@ -20,5 +20,7 @@ Mark the elements you want to keep up to date with the right css classes:
 - crupu-pre : the preamble, in other words "Copyright &copy;"
 - crupu-year: the full year, for example 2016
 
+Please take a look at `sample.html` for examples.
+
 # Everything else
 Hold on to your pants, the rest is comming, I'm still starting up here.
