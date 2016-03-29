@@ -3,12 +3,48 @@
   <head>
     <title>crupu Sample</title>
     <script src="./src/crupu.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
   </head>
   <body>
-    <footer>
-      <div>
-        Copyright &copy; Awesome Factory, <span class="crupu.year">2004</span>
-      </div>
-    </footer>
+    <div class="container">
+      <h1>
+        CopyRight UPdate Util (crupu)
+      </h1>
+    </div>
+    <div class="container">
+      <footer>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Example 1
+            </div>
+            <div class="panel-body">
+              <pre>Copyright &amp;copy; Awesome Factory &lt;span class="crupu-year"&gt;wxyz&lt;/span&gt;</pre>
+
+              Copyright &copy; Awesome Factory <span class="crupu-year">wxyz</span>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            Example 2
+          </div>
+          <div class="panel-body">
+
+            <pre>&lt;span class="crupu-pre myClass"&gt;Preamble&lt;/span&gt; Awesome Factory &lt;span class="crupu-year"&gt;1970&lt;/span&gt;</pre>
+
+            <span class="crupu-pre myClass">Preamble</span> Awesome Factory <span class="crupu-year">1970</span>
+          </div>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>
