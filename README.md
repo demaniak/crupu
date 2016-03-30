@@ -16,7 +16,7 @@ Because this is such a simple component, it has no other dependencies.
 Install the component with [Bower](https://bower.io): - `bower install crupu --save`
 
 ### Webjar
-Add the dependency to your `pom.xml` file:
+Add the [WebJar dependency](http://www.webjars.org/bower) to your `pom.xml` file:
 ```xml
 <dependency>
 	<groupId>org.webjars.bower</groupId>
