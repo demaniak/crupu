@@ -2,10 +2,13 @@
 A simple, zero dependency component that will keep a simple copyright notice up to date (current year).
 
 # Features
-Keeps a simple copyright notice up to date.
+## Keeps a simple copyright notice up to date.
 
 For example, it can make sure that the year part of "Copyright &copy; Awesome Company 2016"
 will always be the current year.
+
+## Zero runtime dependencies
+Because this is such a simple component, it has no other dependencies.
 
 # How
 ## Install
