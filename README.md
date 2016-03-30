@@ -16,7 +16,21 @@ Because this is such a simple component, it has no other dependencies.
 Install the component with [Bower](https://bower.io): - `bower install crupu --save`
 
 ### Webjar
-TODO
+Add the dependency to your `pom.xml` file:
+```xml
+<dependency>
+	<groupId>org.webjars.bower</groupId>
+	<artifactId>crupu</artifactId>
+	<version>0.0.3</version>
+</dependency>
+```
+
+Include in your view with an appropriately sourced `script` tag.
+
+For example, using [ThymeLeaf](http://www.thymeleaf.org/documentation.html):
+```html
+<script th:src="@{/webjars/crupu/0.0.3/src/crupu.js}"></script>
+```
 
 ### Nuget
 TODO
