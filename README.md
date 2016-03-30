@@ -61,5 +61,12 @@ But, in short:
 Copyright &amp; Awesome Factory x100 <span class="crupu-year">this will be replaced</span>
 ```
 
+# FAQ
+## The name is terrible! Don't you want to change it?
+Yes, it is horrible. No, I'm not changing it.
+
+[Naming thing are hard enough](http://martinfowler.com/bliki/TwoHardThings.html)
+without 2nd guessing and constantly angsting about it.
+
 # License
 [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
