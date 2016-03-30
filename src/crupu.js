@@ -1,5 +1,4 @@
 (function () {
-
   document.addEventListener("DOMContentLoaded", function(event) {
     var crupuYearElements = document.getElementsByClassName('crupu-year'),
     crupuPreElements = document.getElementsByClassName('crupu-pre'),
@@ -14,5 +13,4 @@
       crupuPreElements[i].innerHTML = 'Copyright &copy;';
     }
   });
-
 })();
