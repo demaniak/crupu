@@ -25,6 +25,16 @@ Add the dependency to your `pom.xml` file:
 </dependency>
 ```
 
+### Nuget
+TODO
+
+## Include
+### Bower
+```html
+<script src="bower_components/crupu/src/crupu.js"></script>
+```
+
+### Webjar
 Include in your view with an appropriately sourced `script` tag.
 
 For example, using [ThymeLeaf](http://www.thymeleaf.org/documentation.html):
@@ -35,10 +45,8 @@ For example, using [ThymeLeaf](http://www.thymeleaf.org/documentation.html):
 ### Nuget
 TODO
 
-## Include
-```html
-<script src="bower_components/crupu/src/crupu.js"></script>
-```
+### Direct Link
+TODO
 
 ## Use crupu-* classes
 Mark the elements you want to keep up to date with the right css classes:
