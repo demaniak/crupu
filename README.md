@@ -68,5 +68,14 @@ Yes, it is horrible. No, I'm not changing it.
 [Naming thing are hard enough](http://martinfowler.com/bliki/TwoHardThings.html)
 without 2nd guessing and constantly angsting about it.
 
+## Ok, forget about the name - why JavaScript?
+Because everybody knows javascript. It is probably the only REAL, PRACTICAL
+cross platform language around today.
+
+It allows me to provide the same functionality to Java, .Net and whatever
+else you want to use in your backend.
+
+BTW: I still hate JavaScript. Just saying.
+
 # License
 [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
