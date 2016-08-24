@@ -63,9 +63,11 @@ Copyright &amp; Awesome Factory x100 <span class="crupu-year">this will be repla
 
 # FAQ
 ## The name is terrible! Don't you want to change it?
-Yes, it is horrible. No, I'm not changing it.
+Yes, it is horrible. 
 
-[Naming thing are hard enough](http://martinfowler.com/bliki/TwoHardThings.html)
+No, I'm not changing it.
+
+[Naming things are hard enough](http://martinfowler.com/bliki/TwoHardThings.html)
 without 2nd guessing and constantly angsting about it.
 
 ## Ok, forget about the name - why JavaScript?
@@ -75,7 +77,7 @@ cross platform language around today.
 It allows me to provide the same functionality to Java, .Net and whatever
 else you want to use in your backend.
 
-BTW: I still hate JavaScript. Just saying.
+BTW: I still dislike JavaScript. Just saying.
 
 # License
 [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
